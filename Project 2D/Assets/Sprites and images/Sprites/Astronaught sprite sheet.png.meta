@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: bd0329029055611439be54331f7af468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4444990623076464647
+    second: Astronaught sprite sheet_0
+  - first:
+      213: 6564621247126400258
+    second: Astronaught sprite sheet_1
+  - first:
+      213: -360416721832241538
+    second: Astronaught sprite sheet_2
+  - first:
+      213: -5527833300158428449
+    second: Astronaught sprite sheet_3
+  - first:
+      213: 6176047884379874494
+    second: Astronaught sprite sheet_4
+  - first:
+      213: -3238897473518281690
+    second: Astronaught sprite sheet_5
+  - first:
+      213: -2351392014541095797
+    second: Astronaught sprite sheet_6
+  - first:
+      213: -4921511723840497262
+    second: Astronaught sprite sheet_7
+  - first:
+      213: -5013123531274717112
+    second: Astronaught sprite sheet_8
+  - first:
+      213: -377282256733217979
+    second: Astronaught sprite sheet_9
+  - first:
+      213: 7958111826674318021
+    second: Astronaught sprite sheet_10
+  - first:
+      213: 2558942475502479023
+    second: Astronaught sprite sheet_11
+  - first:
+      213: 6625164545561586250
+    second: Astronaught sprite sheet_12
+  - first:
+      213: -6116577059374308457
+    second: Astronaught sprite sheet_13
+  - first:
+      213: 3146561638319212737
+    second: Astronaught sprite sheet_14
+  - first:
+      213: -8029890498181528733
+    second: Astronaught sprite sheet_15
+  - first:
+      213: 2489500951850865557
+    second: Astronaught sprite sheet_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 415
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083a6ecb67cfad30800000000000000
+      internalID: 4444990623076464647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 414
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d63ff4e383a1b50800000000000000
+      internalID: 6564621247126400258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 415
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76141ca6ea8ffaf0800000000000000
+      internalID: -360416721832241538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 485
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4b76b6e03943b0800000000000000
+      internalID: -5527833300158428449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 414
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4e34824dab5b550800000000000000
+      internalID: 6176047884379874494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 277
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c580388ef1d03d0800000000000000
+      internalID: -3238897473518281690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 277
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7695cb6d2e5fd0800000000000000
+      internalID: -2351392014541095797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 277
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2991196992743bbb0800000000000000
+      internalID: -4921511723840497262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 277
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f73f75becd6ab0800000000000000
+      internalID: -5013123531274717112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bdb5359cf93caf0800000000000000
+      internalID: -377282256733217979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf1cfda84e07e60800000000000000
+      internalID: 7958111826674318021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ebf4af90338320800000000000000
+      internalID: 2558942475502479023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 139
+        width: 35
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae5b47d0051fb50800000000000000
+      internalID: 6625164545561586250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e0be429d8d1ba0800000000000000
+      internalID: -6116577059374308457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c843eb8325daab20800000000000000
+      internalID: 3146561638319212737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630b96d229109090800000000000000
+      internalID: -8029890498181528733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaught sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593511ffceb7c8220800000000000000
+      internalID: 2489500951850865557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
